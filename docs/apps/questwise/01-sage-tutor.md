@@ -365,3 +365,42 @@
 - [V via raw 05] COPPA 2025 final rule: https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule
 - [V2 via raw 03] Khanmigo "272 − 172 = 430" and surveillance quote: research/raw/03-forum-voice-of-customer.md
 - [M] Frontier study-mode age minimums (13+); CCSS/TEKS alignment approach
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Re-scope → Embedded Tutor (EN-03) in every Questwise experience + a homework mode |
+| **Ships in** | Questwise app (S2) |
+| **Build wave** | 1c |
+| **Pre-discovery priority score** | 85/100 [I] |
+| **Consumes engines** | EN-03, EN-09, EN-12 |
+| **Studio features used** | SX-08, SX-09, SX-17 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = ST-02, ST-03, ST-04, ST-05, ST-07, ST-10.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| ST-E1 | **At-error invitations** | After two misses in any Questwise experience, Sage offers help in context. The target is ≥40% uptake, against the 17% Khanmigo baseline [V2]. |
+| ST-E2 | **Guide & parent CoPilot** | Suggests how the adult can help without giving the answer (the Tutor CoPilot pattern). |
+| ST-E3 | **Worksheet-aware capture** | Recognizes the method on the class worksheet so hints match what the teacher taught. |
+
+### 15.3 New validation question
+Wizard-of-Oz A/B: embedded at-error invitation vs. a separate tutor entry point. Measure uptake and completion, n=20 families.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 4 | 4 | 5 | 4 | 3 | 4 | 5 |

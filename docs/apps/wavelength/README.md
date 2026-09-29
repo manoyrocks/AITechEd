@@ -1,5 +1,7 @@
 # Wavelength: App Strategy Index
 
+> **v1.1 update:** every app below now has **§15 Reevaluation & enhancements** (verdict, surface, wave, trimmed MVP, new features). See the [Project Reevaluation](../../03-project-reevaluation.md) and [Studio Platform Features](../../04-studio-platform-features.md).
+
 > **Venture:** Wavelength (neurodivergent children and teens, ≈2–17) · **Status:** Discovery & Validation (specs only, no code) · **Date:** 2026-09-29
 > **Parent docs:** [Venture vision](../../vision/05-wavelength-neurodivergent.md) · [Lumen UX Framework](../../02-inclusive-sensory-ux-framework.md) · [Research paper](../../01-research-paper.md) · [Discovery plan](../../discovery/discovery-validation-plan.md) · [App template](../_TEMPLATE.md)
 > **Confidence tags:** [V] verified this session · [V2] secondary / studio raw research · [M] memory · [E] estimate · [I] inference

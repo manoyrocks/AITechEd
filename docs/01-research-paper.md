@@ -386,6 +386,8 @@ These are distilled into the studio's **[Inclusive & Sensory UX Framework](02-in
 
 ## 10. Studio proposal: five ventures, 35 apps
 
+> **v1.1 update:** the [Project Reevaluation](03-project-reevaluation.md) keeps all 35 as experiences but builds them on 12 shared engines and ships them in 10 surfaces instead of 35 store apps. See also [Studio Platform Features](04-studio-platform-features.md).
+
 Working names are subject to trademark screening in discovery.
 
 | Venture | Segment | One-line thesis | Seven apps | Vision doc |

@@ -1,6 +1,8 @@
 # Questwise: Vision Document
 ### A COPPA-safe Socratic tutor and mastery worlds for ages 8–12, with curiosity and no pay-to-win
 
+> **v1.1 update (29 Sep 2026):** see the [Project Reevaluation](../03-project-reevaluation.md) (engines, surfaces, trimmed MVP, waves) and [Studio Platform Features](../04-studio-platform-features.md). Each app doc's §15 holds its verdict and new features.
+
 | | |
 |---|---|
 | **Venture** | 2 of 5 · Tweens |

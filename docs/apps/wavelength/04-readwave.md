@@ -301,3 +301,41 @@ Also relevant: **Dyslexia Quest** (Nessy screener, from $25.50/yr; not diagnosti
 - [V] Child ASR: https://pubs.asha.org/doi/10.1044/2021_JSLHR-21-00096 ; [V2] https://arxiv.org/pdf/2406.07060
 - [V2] Stevens 2021 OG meta-analysis, BDA Style Guide 2023, Dyslexia Quest, Ghotit, HOMER: studio raw file 04 and app catalog
 - [M] Lexia PowerUp, Barton, Reading Horizons, UK phonics terminology, dyslexia-font studies: verify in WP1.
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (shares EN-04 Reading Continuum) |
+| **Ships in** | Wavelength app (S7) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 83/100 [I] |
+| **Consumes engines** | EN-04, EN-09 |
+| **Studio features used** | SX-20, SX-27 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = R1, R3, R4, R5, R8, R9.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| RW-E1 | **IEP accommodations suggestions** | A list of reading-access supports to discuss with the IEP team (text-to-speech, extended time). Not a determination (SX-27). |
+| RW-E2 | **Structured-literacy tutor channel** | Certified tutors use ReadWave as a between-session practice tool, licensed through the Pro Console. |
+
+### 15.3 New validation question
+Tutor/SENCO interviews (n=15) plus a 4-week paper pilot measuring fluency probes.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 4 | 5 | 4 | 4 | 3 | 3 | 4 |

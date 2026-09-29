@@ -351,3 +351,42 @@ MVP = F1–F12 (12 features). **Core loop:** lesson or class → practise on own
 - [M] AARP Fraud Watch Network helpline; Senior Planet (OATS/AARP); Oasis Institute; TechBoomers; Google "Be Scam Ready"; Lively; GrandPad (search budget exhausted, fetch blocked)
 - [M] IMLS and Digital Equity Act funding changes 2025; FTC click-to-cancel rule vacated 2025
 - [V2] ASR and atypical speech (applies to older and dysarthric voices): https://www.jmir.org/2025/1/e60520/
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (lead) → merges with Curiosity Circle into the Evergrow Circle app |
+| **Ships in** | Evergrow Circle (60+) (S6) |
+| **Build wave** | 1b |
+| **Pre-discovery priority score** | 86/100 [I] |
+| **Consumes engines** | EN-06, EN-09, EN-11 |
+| **Studio features used** | SX-18, SX-26, SX-15 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = F1, F2, F3, F4, F6, F7.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| SCir-E1 | **Phone/IVR access** | Dial-in classes and a 'scam check' phone line for seniors without smartphones (SX-26). |
+| SCir-E2 | **Grandkids teach missions** | Paired with Life Ready and AI Detectives (SX-18). |
+| SCir-E3 | **Trusted-contact alert** | With the senior's consent, a contact they chose is notified when they report a suspected scam. |
+
+### 15.3 New validation question
+Landline pilot with 10 seniors completes a class and a scam check; library pilots at 2 branches.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 4 | 5 | 4 | 3 | 4 | 5 | 4 |

@@ -279,3 +279,26 @@ Each criterion is scored 1–5 and multiplied by its weight (maximum 100).
 | Confirmation bias toward 35 attractive concepts | Wasted build | Pre-registered thresholds. Kill criteria. External reviewers at the gates |
 | Market data remains uncertain | Poor sizing | Buy primary data (WP1). Use bottom-up TAM |
 | Scope sprawl across 5 ventures | Shallow learning | Shared panels and instruments. Staggered depth: Evergrow and Wavelength first if resources are tight |
+
+## 13. v1.1 changes (after the project reevaluation)
+This section applies the [Project Reevaluation](../03-project-reevaluation.md) §8 and the [Studio Platform Features](../04-studio-platform-features.md).
+
+- **WP3 scope:** test the **Wave-0 engines plus ≤2 flagship experiences per venture**, not all 35 concepts. The flagships are the Wave-1 experiences in the reevaluation §6. Add a parent **card-sort** comparing one app with modes against separate apps.
+- **Scorecard input:** each app doc's §15.4 holds a pre-discovery score [I]. The score is re-scored with evidence at Gate 1.
+- **New pre-registered experiments (WP4/WP5):**
+
+| # | Experiment | Venture / feature | Success threshold |
+|---|---|---|---|
+| X1 | Embedded tutor: at-error invitation vs. separate entry point (Wizard-of-Oz) | Questwise, Ascendly · SX-17 | Uptake ≥40% (baseline 17%) |
+| X2 | Remote co-play with distant grandparents (n=15 families) | Lanternling, Evergrow · SX-06 | ≥2 sessions/week. Grandparent SUS ≥75 |
+| X3 | IEP/EHCP Prep Coach concierge (n=15 ND parents) | Wavelength / Family Hub · SX-27 | ≥70% "more prepared" |
+| X4 | Trust Center comprehension (n=20 parents) | Studio · SX-08 | ≥80% can answer "what did the AI do?" in ≤2 min |
+| X5 | Notification budget diary (n=20 families) | Studio · SX-05 | No drop in weekly active families at ≤3 notifications/week |
+| X6 | Phone/IVR access for seniors without smartphones (n=10) | Evergrow Circle · SX-26 | Complete a class and a scam check |
+| X7 | Family Pass vs. venture plans price test | Studio · SX-01 | Family Pass converts ≥ separate plans |
+| X8 | AAC build-vs-license analysis + SLP panel | Wavelength Voice · WV-E1 | Decision memo at Gate 2 |
+| X9 | On-device child-ASR feasibility spike | Lanternling, Wavelength · SX-22 | WER by speaker group within target |
+| X10 | Productivity proof pack with design partners | AI Fluency Lab · AFL-E1 | Measured task-time and quality gain reported in aggregate |
+
+- **Budget:** roughly neutral. Fewer concept prototypes offset X1–X10.
+- **Gate 2 output adds:** the engine build order (Wave 0), a surface map confirmation, and the Family Pass decision.

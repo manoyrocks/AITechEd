@@ -321,3 +321,43 @@ No flashing anywhere (WCAG 2.3.1). Speech output volume is separate from the dev
 - [V2] CoughDrop pricing: https://coughdrop.zendesk.com/hc/en-us/articles/115002655512 ; Avaz: https://apps.apple.com/us/app/avaz-aac/id909574843 ; TouchChat: https://littlewords.ai/blog/proloquo2go-versus-touchchat-which-is-better-for-toddlers
 - [V2] Studio raw research 03/04 (AAC funding, family pain points)
 - [M] Apple Live Speech/Personal Voice, Proloquo4Text, Fitzgerald key, OBF support in incumbents, dedicated-SGD DME rules: verify in WP1.
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (stand-alone AAC) — build-vs-partner gate in discovery |
+| **Ships in** | Wavelength Voice (AAC) (S8) |
+| **Build wave** | 1b |
+| **Pre-discovery priority score** | 80/100 [I] |
+| **Consumes engines** | EN-09, EN-02 |
+| **Studio features used** | SX-16, SX-29 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = V1, V2, V5, V7, V12, V14.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| WV-E1 | **Build-vs-license gate** | Before build, evaluate licensing an established open symbol and core-vocabulary set against building one, weighing SLP trust, time and motor-plan stability. |
+| WV-E2 | **SGD funding letter kit** | Templates that help SLPs document medical necessity for insurance or Medicaid speech-generating-device funding (SX-29). |
+| WV-E3 | **AAC input everywhere** | Answer in any studio experience with AAC (SX-16). |
+| WV-E4 | **Offline emergency phrases** | Core safety phrases on the lock screen or a widget, working with no network. |
+
+### 15.3 New validation question
+SLP panel (≥70% would trial it) and adult AAC-user co-design; authorship satisfaction ≥4/5.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 4 | 5 | 4 | 3 | 2 | 4 | 4 |

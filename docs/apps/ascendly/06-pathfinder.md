@@ -272,3 +272,41 @@ Benchmarks: district career platforms are sold per student or per school [M: ver
 - EU AI Act Omnibus — https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/ [V2]
 - Naviance, Xello, Scoir, MajorClarity, BigFuture, Roadtrip Nation, CareerVillage, Handshake, Forage — from memory [M]; **verify in WP1** (vendor sites, district procurement records, store pages)
 - O*NET / BLS Occupational Outlook Handbook as planned data sources — https://www.onetonline.org/ ; https://www.bls.gov/ooh/ [M]
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Merge → teen edition of EN-08 Pathways & Skills (continuity with Career Sprint) |
+| **Ships in** | Ascendly app (S3) |
+| **Build wave** | 3 |
+| **Pre-discovery priority score** | 64/100 [I] |
+| **Consumes engines** | EN-08 |
+| **Studio features used** | SX-02, SX-21 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = PF-01, PF-02, PF-03, PF-04.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| PF-E1 | **Accommodations & disclosure coach** | Helps disabled teens understand disclosure choices and accommodations at college and work. Links to official sources; not legal advice. |
+| PF-E2 | **Apprenticeship & CTE finder** | Local apprenticeships and CTE programmes alongside college routes. |
+
+### 15.3 New validation question
+Sponsor letters of intent (≥2) and counselor interest (n=15).
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 3 | 3 | 4 | 3 | 3 | 3 | 3 | 4 |

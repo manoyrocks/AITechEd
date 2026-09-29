@@ -294,3 +294,41 @@ Benchmarks: Grammarly Pro $144/yr; QuillBot Premium ~$100/yr [M]; Speechify ~$13
 - AI detector bias — https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating [V2]
 - Brisk — https://chromewebstore.google.com/detail/brisk-teaching-ai-that-wo/pcblbflgdkdfdjpjifeppkljdnaekohj [V2]
 - Studio raw 04 (Ghotit dyslexia writing tools) [V2]
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep |
+| **Ships in** | Ascendly app (S3) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 75/100 [I] |
+| **Consumes engines** | EN-03, EN-10 |
+| **Studio features used** | SX-09, SX-24 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = DM-02, DM-04, DM-05, DM-06, DM-07.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| DM-E1 | **AI-use disclosure draft** | An AI-use statement drafted from the authorship timeline, which the teen edits and chooses whether to submit. |
+| DM-E2 | **Home-language drafting** | Multilingual writers draft in their strongest language, then revise into English (DM-17 promoted to V1). |
+
+### 15.3 New validation question
+Docs add-on vs. stand-alone editor preference, n=30 teens and 10 teachers.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 3 | 4 | 4 | 3 | 3 | 4 | 3 |

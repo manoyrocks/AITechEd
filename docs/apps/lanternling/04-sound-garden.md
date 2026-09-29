@@ -328,3 +328,42 @@ Benchmarks: Reading Eggs $69.99/yr (4 kids), HOMER $59.99–79.99/yr, HOP $79.99
 - [V] Starfall membership: https://help.starfall.com/help/help-me-choose-a-membership
 - [V] Orton-Gillingham meta-analysis and dyslexia-font evidence: [raw 04 §B2](../../../research/raw/04-neurodivergent-and-inclusive-ux.md)
 - [M] National Reading Panel; phonological awareness as a predictor; Bayesian knowledge tracing
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (lead) |
+| **Ships in** | Lanternling app (S1) |
+| **Build wave** | 1c |
+| **Pre-discovery priority score** | 85/100 [I] |
+| **Consumes engines** | EN-03, EN-04, EN-09 |
+| **Studio features used** | SX-17, SX-20, SX-22, SX-25 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = SG-01, SG-02, SG-03, SG-04, SG-05, SG-06.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| SG-E1 | **Classroom small-group CoPilot** | Pre-K/K teachers get Tutor-CoPilot-style prompts for small-group phonics (SX-17). |
+| SG-E2 | **Take-home decodables** | Printable decodable books matched to the child's current bed (SX-25). |
+| SG-E3 | **Reading-profile handoff** | With consent, the reading profile passes to Read Rangers or ReadWave, and the caregiver chooses. Never a label (SX-20). |
+
+### 15.3 New validation question
+Can an on-device read-along meet the WER target by speaker group? SX-22 feasibility spike.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 4 | 4 | 5 | 4 | 3 | 4 | 5 |

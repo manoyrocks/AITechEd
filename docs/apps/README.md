@@ -20,6 +20,9 @@ Every app has an individual **strategy and product specification**. All specs fo
 
 To hand an app to an AI or human build team, use the **[Unified Agent-Team Prompt](../agent-team/unified-agent-team-prompt.md)** with the app's doc path.
 
+## v1.1 reevaluation
+Every app spec now ends with **§15 Reevaluation & enhancements**: verdict, the surface it ships in, build wave, a pre-discovery score, the trimmed MVP and new features. See the [Project Reevaluation](../03-project-reevaluation.md) for the full per-app table and ranking, and [Studio Platform Features](../04-studio-platform-features.md) for the 12 shared engines and 33 studio features.
+
 ## Venture indexes
 Each venture folder has a README with:
 - an app table

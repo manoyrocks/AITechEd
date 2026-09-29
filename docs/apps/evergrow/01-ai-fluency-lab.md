@@ -377,3 +377,42 @@ The fair-billing charter applies to all tiers. Accessibility features are never 
 - [V2] EU AI Act Art. 4 enforcement and Digital Omnibus: https://www.muchskills.com/blog/eu-ai-act-article-4-ai-literacy-enforcement · https://www.traverssmith.com/knowledge/knowledge-container/the-eu-ai-acts-ai-literacy-requirement-key-considerations/
 - [V2] NYC LL144 / Illinois HB 3773: https://www.dlapiper.com/en-us/insights/publications/2026/01/critical-audit-of-nyc-ai-hiring-law-signals-increased-risk-for-employers · https://www.jonesday.com/en/insights/2024/10/illinois-becomes-second-state-to-pass-broad-legislation-on-the-use-of-ai-in-employment-decisions
 - Repo: research/raw/05-market-and-trends.md (WEF 2025, pricing bands, Coursera–Udemy merger), research/raw/01-google-play-top30.md, research/raw/04-neurodivergent-and-inclusive-ux.md
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (studio lead; absorbs Lead with AI as the Manager track) |
+| **Ships in** | Evergrow Work (B2B) (S4) |
+| **Build wave** | 1a |
+| **Pre-discovery priority score** | 84/100 [I] |
+| **Consumes engines** | EN-03, EN-06, EN-08, EN-10 |
+| **Studio features used** | SX-02, SX-21, SX-30, SX-31 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = F1, F2, F3, F4, F5, F8.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| AFL-E1 | **Productivity proof pack** | Before/after task time and quality measured in sandboxes, rolled up into an aggregate ROI report for the buyer. This answers the softened EU Art. 4 duty and Coursera's ~91% enterprise NRR [V2]. |
+| AFL-E2 | **AI as assistive tech at work** | A track for disabled employees and their managers on using AI for accessibility (captioning, summarizing, task breakdown). |
+| AFL-E3 | **Manager track** | Lead with AI simulations delivered as a module (see the Lead with AI verdict). |
+
+### 15.3 New validation question
+Two design-partner cohorts: measured task-performance gain, plus ≥3 paid LOIs at ≥$150/seat/yr.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 4 | 4 | 4 | 5 | 4 | 4 | 5 |

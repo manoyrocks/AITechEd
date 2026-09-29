@@ -1,5 +1,7 @@
 # Questwise: App Specs Index (ages 8–12)
 
+> **v1.1 update:** every app below now has **§15 Reevaluation & enhancements** (verdict, surface, wave, trimmed MVP, new features). See the [Project Reevaluation](../../03-project-reevaluation.md) and [Studio Platform Features](../../04-studio-platform-features.md).
+
 > **Venture 2 of 5** · A COPPA-safe Socratic tutor and mastery worlds for ages 8–12, with no pay-to-win.
 > **Status:** Discovery & Validation (specs only, no code) · **Date:** 29 September 2026
 > **Parent docs:** [Venture vision](../../vision/02-questwise-tweens.md) · [Lumen UX Framework](../../02-inclusive-sensory-ux-framework.md) · [Research paper](../../01-research-paper.md) · [Discovery plan](../../discovery/discovery-validation-plan.md) · [App template](../_TEMPLATE.md)

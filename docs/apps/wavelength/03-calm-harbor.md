@@ -285,3 +285,41 @@ Also scanned: fluid/"sensory toy" apps (Fluid, Sensory Baby) [M]. They are popul
 - [V] Interoception studies: https://www.semanticscholar.org/paper/An-Interoception-Based-Intervention-for-Children-A-Hample-Mahler/156f79385620b3876ad40bf7f07aab1da27beec1 ; https://pubmed.ncbi.nlm.nih.gov/35539883/ ; https://pubmed.ncbi.nlm.nih.gov/38375672/
 - [V2] Miracle Modus, EU AI Act, COPPA: studio raw file 04
 - [M] Crisis line numbers, FDA general-wellness guidance, Zones compliance critique, sensory toy apps: verify in WP1.
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (lead; shares EN-05 with Calm Cubs) |
+| **Ships in** | Wavelength app (S7) |
+| **Build wave** | 1b |
+| **Pre-discovery priority score** | 83/100 [I] |
+| **Consumes engines** | EN-05, EN-02 |
+| **Studio features used** | SX-12, SX-19 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = C1, C2, C3, C5, C8, C13.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| CH-E1 | **Sensory passport for school** | A one-page sensory profile the learner approves and shares with teachers (SX-12). |
+| CH-E2 | **Classroom calm-corner kiosk (V1 → MVP)** | A school edition on a shared device that anchors district sales. |
+
+### 15.3 New validation question
+OT-led sessions (n=15): use during dysregulation, not only at calm times; comfort ≥4/5.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 4 | 5 | 3 | 3 | 4 | 4 | 5 |

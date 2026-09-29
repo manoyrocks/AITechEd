@@ -1,5 +1,7 @@
 # Evergrow: App Specifications Index
 
+> **v1.1 update:** every app below now has **§15 Reevaluation & enhancements** (verdict, surface, wave, trimmed MVP, new features). See the [Project Reevaluation](../../03-project-reevaluation.md) and [Studio Platform Features](../../04-studio-platform-features.md).
+
 > **Venture:** Evergrow (adults 20–34, 35–59, 60+): hands-on AI fluency and lifelong learning, humans in the loop, no streak guilt
 > **Status:** Discovery & Validation (specs only, no code) · **Date:** 29 Sep 2026
 > **Parent docs:** [Venture vision](../../vision/04-evergrow-adults.md) · [Lumen UX Framework](../../02-inclusive-sensory-ux-framework.md) · [Research paper](../../01-research-paper.md) · [Discovery plan](../../discovery/discovery-validation-plan.md) · [App template](../_TEMPLATE.md)

@@ -277,3 +277,41 @@ Benchmarks: Lingokids ≈$79.99–99.99/yr; Duolingo freemium; PBS KIDS free; Gu
 - [V] Speech-scoring barriers: [Research paper §6](../../01-research-paper.md)
 - [M] EFL WTP in LatAm/Asia: [raw 05](../../../research/raw/05-market-and-trends.md)
 - [M] Gus on the Go, Studycat, Rosetta Stone Kids, Dinolingo, Mondly Kids; third-generation language shift; LGPD/LFPDPPP children's-data rules: to verify in WP1
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Re-scope → Family Voice & Languages layer (SX-07) + a stand-alone EFL SKU (MX/BR) |
+| **Ships in** | Lanternling app (S1) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 65/100 [I] |
+| **Consumes engines** | EN-07 |
+| **Studio features used** | SX-07, SX-24, SX-26, SX-32 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = TWO-01, TWO-02, TWO-04, TWO-07.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| TWO-E1 | **Record by link or phone** | Grandparents record words from a link or a phone call, with no app install (SX-26). |
+| TWO-E2 | **Community heritage packs** | Native-speaker-reviewed heritage-language packs added through the Content Studio (SX-32). |
+
+### 15.3 New validation question
+Heritage (US) vs EFL (MX/BR) willingness to pay: smoke test in WP5.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 3 | 3 | 4 | 3 | 2 | 4 | 4 | 4 |

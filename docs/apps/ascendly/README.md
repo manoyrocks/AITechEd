@@ -1,5 +1,7 @@
 # Ascendly: App Specs Index (ages 13–19)
 
+> **v1.1 update:** every app below now has **§15 Reevaluation & enhancements** (verdict, surface, wave, trimmed MVP, new features). See the [Project Reevaluation](../../03-project-reevaluation.md) and [Studio Platform Features](../../04-studio-platform-features.md).
+
 > **AI-native learning, not cheating. Proof-of-learning and future pathways.**
 > **Status:** Discovery & Validation (specs only, no code) · **Date:** 29 September 2026
 > **Parent docs:** [Venture vision](../../vision/03-ascendly-teens.md) · [Lumen UX Framework](../../02-inclusive-sensory-ux-framework.md) · [Research paper](../../01-research-paper.md) · [Discovery plan](../../discovery/discovery-validation-plan.md) · [Template](../_TEMPLATE.md)

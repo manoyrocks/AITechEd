@@ -269,3 +269,41 @@ Benchmarks: NGPF, Checkology, iCivics, Khan Academy free [M]; Greenlight/Step mo
 - Common Sense AI companions stat — research/raw/05-market-and-trends.md [M]
 - EU AI Act Art. 50 — docs/01-research-paper.md §8 [V2]
 - Greenlight, Step, Zogo, NGPF, Ramsey, Checkology, iCivics, Khan Academy financial literacy, Common Sense Education — from memory [M]; **verify in WP1** (vendor sites, store pages, NGPF state-requirement tracker, FTC Consumer Sentinel data)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Merge → teen edition of EN-06 Safety, Scam, AI & Media Literacy engine |
+| **Ships in** | Ascendly app (S3) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 60/100 [I] |
+| **Consumes engines** | EN-06 |
+| **Studio features used** | SX-18 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = LR-01, LR-02, LR-03.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| LR-E1 | **Teach-a-grandparent missions** | Teens coach a grandparent through Silver Circuit Scam Gym cases (SX-18). |
+| LR-E2 | **Live scam season** | Timely scenarios based on current scam patterns, reviewed by humans before release (LR-12 promoted). |
+
+### 15.3 New validation question
+Organic pull: short-form content test plus school elective interest.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 3 | 2 | 4 | 3 | 2 | 4 | 3 | 4 |

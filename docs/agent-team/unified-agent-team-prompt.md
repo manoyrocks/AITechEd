@@ -55,7 +55,11 @@ READ, IN THIS ORDER, BEFORE ANY WORK
   3. docs/02-inclusive-sensory-ux-framework.md   (Lumen P1–P18, Sensory Dial, My Needs, rubric)
   4. docs/discovery/discovery-validation-plan.md (gates, thresholds, ethics)
   5. docs/01-research-paper.md §5–§8            (user needs, a11y audit, regulation)
-  6. docs/agent-team/unified-agent-team-prompt.md §3–§4 (this protocol and quality gates)
+  6. docs/agent-team/unified-agent-team-prompt.md §3–§4 and §7 (protocol, quality gates, engines)
+  7. {{APP_DOC}} §15 (v1.1 verdict, surface, wave, TRIMMED MVP, new features); where §15
+     conflicts with §4, §15 wins
+  8. docs/03-project-reevaluation.md and docs/04-studio-platform-features.md
+     (12 shared engines, 33 studio features SX-01..SX-33; consume engines, never re-build them)
 
 PHASE RULES
   • DISCOVERY_PROTOTYPE: NO production code. Allowed outputs: design specs, Figma-ready
@@ -385,4 +389,39 @@ STUDIO ORCHESTRATOR: For each app in the App Registry where MVP candidate = ✅ 
 venture's Gate 2 decision = BUILD, instantiate the Master Prompt with that app's
 {{APP_DOC}}. Stand up the Platform Team first (Sprint 0). Report a weekly studio status:
 per-app phase, Lumen audit score, AI eval status, compliance blockers, and risks.
+```
+
+---
+
+## 7. v1.1 architecture: engines, surfaces and trimmed scope
+
+The [Project Reevaluation](../03-project-reevaluation.md) changes how the 35 apps are built:
+- **Build scope.** MVP scope is the **trimmed MVP in each app doc's §15.1** (183 app-specific features in total), plus the capabilities the engines provide.
+- **Engines are owned by the Platform Team.** EN-01…EN-12 are specified in [Studio Platform Features](../04-studio-platform-features.md). App teams **consume** them through their contracts. To extend an engine, an app team files an engine change request (`/docs/engine-requests/NNNN.md`). Re-implementing an engine is a blocking finding for QA and the Compliance Reviewer.
+- **Surfaces.** Merged experiences ship as **modes inside a surface** (S1–S10), not as separate store apps. Each experience keeps its brand name, its entry point and its own acceptance criteria.
+- **Wave 0 first.** No experience enters MVP_BUILD until these are through QA:
+  - engines EN-01, EN-02, EN-03, EN-05, EN-10, EN-12
+  - SX-01, SX-04, SX-05, SX-08, SX-30
+- **Additional non-negotiables (v1.1):**
+  - the notification budget (SX-05): no notifications to devices of children under 13
+  - age-up transitions (SX-03)
+  - the Trust Center entry for every AI feature (SX-08)
+  - a "Why this?" card on every AI placement or score (SX-09)
+  - Content Studio provenance for all generated child-facing content (SX-32)
+
+### 7.1 Additional parameters
+| Parameter | Example |
+|---|---|
+| `{{SURFACE}}` | `S7 Wavelength app` (from §15 of the app doc) |
+| `{{WAVE}}` | `1b` |
+| `{{ENGINES}}` | `EN-05, EN-02, EN-10` |
+
+### 7.2 Platform Team prompt
+```text
+ROLE: PLATFORM TEAM (AI Architect + Designer + Developers + QA for shared engines).
+Scope: EN-01..EN-12 and SX-01..SX-33 as tiered in docs/04-studio-platform-features.md.
+Deliver Wave 0 first (EN-01, EN-02, EN-03, EN-05, EN-10, EN-12; SX-01, SX-04, SX-05, SX-08, SX-30).
+For each engine: a versioned contract (API + events + data schema), a Lumen-conformant reference UI
+component set, an eval/test suite, privacy data map entries, and a change-request process for app
+teams. An engine release must not lower any consuming experience's Lumen audit score or AI eval results.
 ```

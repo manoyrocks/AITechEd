@@ -379,3 +379,41 @@
 - Math accessibility — https://www.mtm.se/en/recommendations-for-stem-users/ ; https://accessibility.huit.harvard.edu/news/2026/08/practical-guide-accessible-math ; https://caniuse.com/mathml [V2]
 - Bastani et al., PNAS 2025 — https://www.pnas.org/doi/10.1073/pnas.2422633122 [V2: raw 05]
 - Studio raw research: research/raw/01–05, research/app-catalog.csv [V2]
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Re-scope → Embedded Tutor (EN-03) in Exam Ready / Explain It Back + a stand-alone mode |
+| **Ships in** | Ascendly app (S3) |
+| **Build wave** | 1d |
+| **Pre-discovery priority score** | 77/100 [I] |
+| **Consumes engines** | EN-03, EN-12 |
+| **Studio features used** | SX-08, SX-09, SX-17 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = SC-02, SC-03, SC-04, SC-05, SC-06, SC-08.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| SC-E1 | **Bring your AI chat** | The teen imports a chat they had with a general assistant. The coach turns it into retrieval questions and a teach-it-back check, meeting teens where they already study. |
+| SC-E2 | **At-error invitations** | Offered inside Exam Ready practice after two misses (SX-17). |
+
+### 15.3 New validation question
+Under deadline pressure, do teens choose the coach? Diary + Wizard-of-Oz study, n=40; ≥50% return weekly.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 3 | 4 | 5 | 3 | 3 | 3 | 5 |

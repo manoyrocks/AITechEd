@@ -325,3 +325,41 @@ MVP = F1–F11. **Core loop:** choose a sprint → weekly milestones → mentor 
 - [V2] ASR and atypical speech: https://www.jmir.org/2025/1/e60520/ · https://arxiv.org/pdf/2509.25048
 - [V] Coursera Q2 2026: https://investor.coursera.com/news/news-details/2026/Coursera-Reports-Second-Quarter-2026-Financial-Results/default.aspx
 - Repo: research/raw/01, raw/02 (Seekho, Coursera, Udemy), raw/05 (cohort completion benchmarks), raw/04 (EU AI Act Art. 5)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Merge → adult edition of EN-08 Pathways & Skills, in Evergrow Work |
+| **Ships in** | Evergrow Work (B2B) (S4) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 68/100 [I] |
+| **Consumes engines** | EN-08, EN-11 |
+| **Studio features used** | SX-02, SX-21 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = F1, F2, F3, F5, F6.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| CS-E1 | **Neurodivergent hiring pathway** | Briefs from ND-friendly employers, accommodations in interview practice, and continuity for Wavelength and Ascendly graduates. |
+| CS-E2 | **Portfolio continuity** | Imports the Ascendly Record through the Lifelong Learner Passport (SX-02). |
+
+### 15.3 New validation question
+Hiring managers rate sprint portfolios above certificates (n=5 managers, 15 learners).
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 3 | 4 | 3 | 3 | 3 | 3 | 4 |

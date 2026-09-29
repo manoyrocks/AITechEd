@@ -284,3 +284,41 @@ Benchmarks: Todo Math $69.99–99.99/yr, SplashLearn from $7.49/mo annual, Khan 
 - [V] Khan Academy Kids data: [raw 01](../../../research/raw/01-google-play-top30.md) · [raw 02](../../../research/raw/02-apple-app-store-top30.md)
 - [M] Osmo/Byju's (raw 05): [raw 05](../../../research/raw/05-market-and-trends.md)
 - [M] Moose Math, Montessori Numbers (Edoki), Marbleverse; Duncan et al. 2007 (early math predicts later achievement): to verify in WP1
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep |
+| **Ships in** | Lanternling app (S1) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 67/100 [I] |
+| **Consumes engines** | EN-03, EN-10 |
+| **Studio features used** | SX-25 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = NN-01, NN-02, NN-03, NN-04, NN-06, NN-07.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| NN-E1 | **Math-talk Moment Cards** | Parent prompts for grocery, cooking and stairs, sharing Babble Buddy's card engine. |
+| NN-E2 | **Paper mirror** | Printable ten-frames and bead bars that mirror each digital material (SX-25). |
+
+### 15.3 New validation question
+Do self-correcting materials sustain persistence without rewards? Pre-K paper test, n=16.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 3 | 3 | 4 | 4 | 3 | 4 | 3 | 3 |

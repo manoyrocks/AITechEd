@@ -279,3 +279,41 @@ Benchmarks: Forest one-time ≈$3.99 [M]; Opal Pro ≈$99/yr [M]; Focusmate Plus
 - KOSA status — https://www.cnbc.com/2026/08/05/kosa-privacy-social-media-senate.html [V2]
 - CA SB 243 / FTC 6(b) — https://www.joneswalker.com/en/insights/blogs/ai-law-blog/ai-regulatory-update-californias-sb-243-mandates-companion-ai-safety-and-accoun.html [V2]
 - Forest, Opal, Focusmate, YPT, Flora, Flipd, StudyStream, Study Together details — from memory [M]; **verify in WP1** (store pages, Sensor Tower/Appfigures, ToS for age limits)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Merge → Ascendly skin on EN-05 + EN-11 (Focus & safe rooms) |
+| **Ships in** | Ascendly app (S3) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 65/100 [I] |
+| **Consumes engines** | EN-05, EN-11 |
+| **Studio features used** | SX-19, SX-05 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = SQ-01, SQ-02, SQ-03, SQ-05, SQ-09.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| SQ-E1 | **OS focus integration** | The teen's chosen lock-in uses platform focus and Screen Time APIs (e.g., iOS Family Controls, Android Digital Wellbeing) [M: verify API scope]. |
+| SQ-E2 | **Library virtual study hall** | A partner-hosted, moderated study hall for teens without a friend group. |
+
+### 15.3 New validation question
+Discord-bot pilot: ≥2 sessions/week per active teen.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 3 | 4 | 2 | 2 | 4 | 3 | 4 |

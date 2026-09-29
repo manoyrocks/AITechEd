@@ -271,3 +271,41 @@ Mapping: E1, E2 → WP4; E3 → WP4/WP5; E4 → WP2/WP5.
 - [V via raw 04] Nessy pricing and BDA mark: research/raw/04-neurodivergent-and-inclusive-ux.md
 - [V via raw 03] Epic complaints, Reading Eggs reward gaming: research/raw/03-forum-voice-of-customer.md
 - [M] Newsela, Beanstack, Raz-Kids details not re-verified (search budget exhausted)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep |
+| **Ships in** | Questwise app (S2) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 73/100 [I] |
+| **Consumes engines** | EN-04, EN-03 |
+| **Studio features used** | SX-20, SX-14 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = RR-02, RR-03, RR-04, RR-05, RR-07.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| RR-E1 | **Reading continuum** | Uses one skill model with Sound Garden and ReadWave, so dyslexic readers keep their supports (SX-20). |
+| RR-E2 | **Synced audiobook + text shelf** | An access route to grade-level content, alongside decoding practice rather than instead of it. |
+
+### 15.3 New validation question
+Interest-matched texts vs. a curated library: minutes read and comprehension probes, 3-week concierge.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 3 | 5 | 4 | 3 | 3 | 3 | 4 |

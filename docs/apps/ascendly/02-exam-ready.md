@@ -316,3 +316,41 @@ Benchmarks: Quizlet Plus $35.99/yr; Fiveable $79/yr; Magoosh $129; UWorld $299�
 - Retrieval/spacing meta-analyses — https://link.springer.com/article/10.1007/s10648-025-10035-1 ; https://pdf.retrievalpractice.org/MetaAnalysisGuide.pdf [V2]
 - EU AI Act Omnibus — https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/ [V2]
 - Studio raw research 01–05 and app-catalog.csv [V2]
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (lead) |
+| **Ships in** | Ascendly app (S3) |
+| **Build wave** | 1d |
+| **Pre-discovery priority score** | 83/100 [I] |
+| **Consumes engines** | EN-03, EN-04, EN-10 |
+| **Studio features used** | SX-17, SX-31 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = ER-02, ER-03, ER-05, ER-06, ER-07, ER-09.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| ER-E1 | **Accommodations request helper** | Explains the exam board's accommodations and access-arrangements process, with a checklist to work through with the counselor. Guidance only. |
+| ER-E2 | **Squad sync** | Turns the study plan into Study Squad sessions (EN-11). |
+
+### 15.3 New validation question
+Item-bank quality: reviewer agreement ≥0.8 on a 100-item pilot bank.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 5 | 4 | 4 | 4 | 3 | 3 | 4 |

@@ -310,3 +310,41 @@ Benchmarks: Nearpod $159–397/teacher/yr; Edpuzzle Pro ≈$138–165/yr; MagicS
 - Socrative/Seesaw pricing — https://www.myengineeringbuddy.com/blog/socrative-reviews-alternatives-pricing-offerings/ ; https://www.getapp.com/education-childcare-software/a/seesaw/ [V2]
 - EU AI Act Omnibus — https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/ ; https://uniwise.eu/resources/blog/the-eu-ai-act-and-assessment-december-2027-is-not-a-snooze-button [V2]
 - Studio raw research 03, 05 [V2]
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (lead, B2B wedge) |
+| **Ships in** | Ascendly app (S3) |
+| **Build wave** | 1d |
+| **Pre-discovery priority score** | 87/100 [I] |
+| **Consumes engines** | EN-03, EN-10 |
+| **Studio features used** | SX-09, SX-16, SX-30 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = EB-02, EB-03, EB-04, EB-05, EB-06, EB-10.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| EB-E1 | **Explain in your home language** | Multilingual learners explain in their strongest language. The rubric scores the concept, not English proficiency. |
+| EB-E2 | **Oral-defense lite** | A 3-minute live viva scheduler for teachers, for AI-era assessment. |
+
+### 15.3 New validation question
+Teacher value ≥4/5 and teen comfort ≥3.5/5 in a 4-class paper pilot.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 4 | 5 | 4 | 4 | 3 | 5 | 4 |

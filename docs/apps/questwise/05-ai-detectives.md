@@ -246,3 +246,41 @@ Mapping: E1 → WP4/WP5; E2, E3 → WP4; E4 → WP2.
 - [V2] Nearpod media literacy: https://nearpod.com/blog/media-literacy-fake-news/
 - [V2] Gemini under-13 access: https://www.qustodio.com/en/blog/is-google-gemini-safe/
 - [M] AI4K12 Five Big Ideas; Interland release year; BrainPOP AI topics
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Merge → age 9–12 edition of EN-06 Safety, Scam, AI & Media Literacy engine |
+| **Ships in** | Questwise app (S2) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 73/100 [I] |
+| **Consumes engines** | EN-06 |
+| **Studio features used** | SX-18, SX-32 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = AD-01, AD-02, AD-03, AD-04.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| AD-E1 | **Teach-your-grandparent missions** | Kids walk a grandparent through a scam case that pairs with Silver Circuit's Scam Gym (SX-18). |
+| AD-E2 | **Free classroom edition** | A brand-building distribution channel for Questwise. |
+
+### 15.3 New validation question
+Intergenerational mission completion with ≥10 families; teacher adoption intent ≥4/5.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 3 | 4 | 3 | 3 | 4 | 4 | 5 |

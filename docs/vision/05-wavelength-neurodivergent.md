@@ -1,6 +1,8 @@
 # Wavelength: Vision Document
 ### A neurodiversity-affirming, sensory-friendly suite for communication, regulation, learning and independence
 
+> **v1.1 update (29 Sep 2026):** see the [Project Reevaluation](../03-project-reevaluation.md) (engines, surfaces, trimmed MVP, waves) and [Studio Platform Features](../04-studio-platform-features.md). Each app doc's §15 holds its verdict and new features.
+
 | | |
 |---|---|
 | **Venture** | 5 of 5 · Neurodivergent children & families |

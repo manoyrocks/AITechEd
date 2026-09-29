@@ -1,6 +1,8 @@
 # Lanternling: Vision Document
 ### Calm, voice-first, co-play-first early learning for ages 1–7
 
+> **v1.1 update (29 Sep 2026):** see the [Project Reevaluation](../03-project-reevaluation.md) (engines, surfaces, trimmed MVP, waves) and [Studio Platform Features](../04-studio-platform-features.md). Each app doc's §15 holds its verdict and new features.
+
 | | |
 |---|---|
 | **Venture** | 1 of 5 · Early Years |

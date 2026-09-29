@@ -334,3 +334,41 @@ MVP launch languages: Spanish, Italian, French, German, English (for Spanish spe
 - [V2] Pimsleur pricing: https://speakfluentreviews.com/pimsleur-cost/ · [V2] ELSA pricing: https://www.capterra.com/p/240698/ELSA-Speak/
 - [V2] ASR and atypical speech: https://www.jmir.org/2025/1/e60520/ · https://arxiv.org/pdf/2509.25048 · https://www.frontiersin.org/journals/language-sciences/articles/10.3389/flang.2025.1569448/full
 - Repo: research/raw/01 and 02 (store figures for Duolingo, Learna, Speak, Praktika, ELSA, Loora, Babbel), raw/03 (Duolingo backlash VoC), raw/05 (Duolingo Q2 2026, Preply raise, benchmarks)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (stand-alone consumer app; re-scope the human layer) |
+| **Ships in** | Speak Freely (S5) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 70/100 [I] |
+| **Consumes engines** | EN-07, EN-09, EN-11 |
+| **Studio features used** | SX-24, SX-26 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = F1, F2, F3, F4, F6, F10.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| SF-E1 | **Small-group check-ins by default** | 4–6 learners per human session instead of 1:1, to fix unit economics after Babbel closed its consumer live classes (Jul 2025) [V2]. |
+| SF-E2 | **Community conversation hosts** | Vetted, paid heritage speakers and retirees from Evergrow Circle host conversations: intergenerational supply that also gives hosts purpose. |
+
+### 15.3 New validation question
+Group check-in satisfaction ≥ 1:1 minus 0.5 points, with tutor cost ≤35% of revenue.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 4 | 4 | 3 | 3 | 3 | 3 | 3 |

@@ -252,3 +252,41 @@ Mapping: E1, E3 → WP2/WP4; E2 → WP4; E4 → WP5.
 - [V2] OurHome status: https://choresplit.com/compare/ourhome
 - [V via raw paper] ADHD prevalence 11.4%: docs/01-research-paper.md §3
 - [M] Body-doubling practice; BRIEF-style EF checklists; CHADD partnerships
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Merge → Questwise skin on EN-05 Routine, Regulation & Focus engine |
+| **Ships in** | Questwise app (S2) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 77/100 [I] |
+| **Consumes engines** | EN-05, EN-11 |
+| **Studio features used** | SX-19, SX-05 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = MC-01, MC-02, MC-04, MC-05, MC-10, MC-13.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| MC-E1 | **Family homework agreement** | A plan co-created by child and parent, written in the child's words, to reduce conflict. |
+| MC-E2 | **Assignment import in MVP** | LMS and microschool assignment import (MC-13), promoted to MVP for the ESA and microschool channel. |
+
+### 15.3 New validation question
+Tween self-adoption vs. parent-run: 2-week diary study.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 4 | 5 | 3 | 3 | 4 | 3 | 5 |

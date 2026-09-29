@@ -313,3 +313,41 @@ MVP = F1–F10.
 - Repo (originally [V]/[V2]): research/raw/03 (GetSetUp; BrainHQ/Lumosity transfer; Mayo Clinic Q&A; PMC review), research/raw/04 (FTC Lumosity $2M and LearningRx; WCAG 3.3.8; seniors UX), research/raw/05 (Lancet 2024; MA channel; cohort completion benchmarks), research/raw/01–02 and app-catalog.csv (Babbel, Elevate, Simply Piano, MasterClass, Yousician)
 - [V2] Babbel Live consumer shutdown: https://strommeninc.com/why-babbel-live-shut-down-and-what-to-use-instead-2025/
 - [M] The Great Courses/Wondrium, MasterClass pricing, Ancestry/FamilySearch, OLLI network, Yousician pricing, recording-consent laws (not re-verified; search budget exhausted and fetches blocked)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Merge → Evergrow Circle app (with Silver Circuit) |
+| **Ships in** | Evergrow Circle (60+) (S6) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 75/100 [I] |
+| **Consumes engines** | EN-07, EN-11 |
+| **Studio features used** | SX-06, SX-07, SX-26 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = F1, F2, F3, F4.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| CCir-E1 | **Intergenerational circles (V2 → V1)** | Seniors record heritage-language words for Two Words and tell stories with grandchildren via Remote Co-play (SX-06, SX-07). |
+| CCir-E2 | **Paid peer-host pathway (V2 → V1)** | Experienced members become paid circle hosts, growing supply and purpose. |
+
+### 15.3 New validation question
+3 pilot cohorts: attendance ≥70% and re-enrolment ≥50%.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 3 | 5 | 3 | 3 | 4 | 4 | 4 |

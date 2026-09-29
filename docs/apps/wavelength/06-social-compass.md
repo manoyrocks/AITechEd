@@ -290,3 +290,41 @@ Our spec answers each one.
 - [V2] QTrobot pricing/study: https://luxai.com/shop/ ; https://www.lih.lu/en/article/luxai-luxembourg-institute-of-health-and-university-of-birmingham-launch-the-first-large-scale-study-of-at-home-robot-led-early-development-support-for-autistic-children-with-qtrobot/
 - [V2] ABA/neurodiversity critique sources (via raw 04): https://childmind.org/article/controversy-around-applied-behavior-analysis/ ; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11219658/ ; https://www.mdpi.com/2075-4698/15/3/72 ; https://www.tandfonline.com/doi/full/10.1080/09687599.2025.2478049
 - [M] Milton (2012) double empathy; Crompton et al. (2020); Cassidy et al. camouflaging; PEERS RCTs; Everyday Speech, Model Me Kids, Floreo product details; SB 243: **re-verify in WP1** (search quota exhausted this session).
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (Wave 3, high sensitivity; ND board veto) |
+| **Ships in** | Wavelength app (S7) |
+| **Build wave** | 3 |
+| **Pre-discovery priority score** | 74/100 [I] |
+| **Consumes engines** | EN-08, EN-02 |
+| **Studio features used** | SX-13, SX-21 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = S1, S2, S3, S11.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| SCo-E1 | **Peer-understanding module** | A double-empathy module that teaches neurotypical classmates about neurodivergent communication, so the work runs both ways. |
+| SCo-E2 | **Self-advocacy handoff** | My Profile card and scripts carry into Pathways at college and work (SX-21). |
+
+### 15.3 New validation question
+Autistic teen and adult co-design (n=12): rated 'affirming, not masking' ≥4/5.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 3 | 5 | 3 | 3 | 3 | 5 | 3 |

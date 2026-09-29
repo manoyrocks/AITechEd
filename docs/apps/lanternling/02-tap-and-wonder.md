@@ -303,3 +303,41 @@ Benchmarks: Pok Pok $45.99/yr; Sago Mini World $7.99/mo; Piknik $11.99–14.99/m
 - [V] Hey Duggee Big Badge App: https://apps.apple.com/us/app/hey-duggee-the-big-badge-app/id1019167420
 - [V] Khan Academy Kids, Sago iOS volume and ratings: [raw 01](../../../research/raw/01-google-play-top30.md), [raw 02](../../../research/raw/02-apple-app-store-top30.md)
 - [M] Bluey licensed apps; eye-gaze dwell on iPadOS; video deficit (via raw 04)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Merge → 'Wonder' toddler mode inside the Lanternling app |
+| **Ships in** | Lanternling app (S1) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 65/100 [I] |
+| **Consumes engines** | EN-02, EN-07 |
+| **Studio features used** | SX-06, SX-07, SX-12 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = TW-01, TW-02, TW-03, TW-04, TW-13.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| TW-E1 | **Two-touch co-play** | A scene reveals its surprise only when adult and child tap together, making joint media engagement structural. |
+| TW-E2 | **Bedtime handoff** | Sleepy Scene can hand over to Story Lantern Lantern Mode, so the day ends screen-off. |
+
+### 15.3 New validation question
+Do parents value toddler play more as a mode of Lanternling than as a separate app? Preference test in WP3.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 3 | 3 | 5 | 2 | 2 | 5 | 3 | 3 |

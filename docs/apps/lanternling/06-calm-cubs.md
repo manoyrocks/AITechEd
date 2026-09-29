@@ -281,3 +281,41 @@ Benchmarks: Choiceworks $39.99 one-time; Brili $49.99/yr; Moshi $79.99/yr; Heads
 - [V] Pok Pok takeaway meltdown review: https://www.commonsensemedia.org/app-reviews/pok-pok-playroom/user-reviews/adult
 - [V] EU AI Act emotion-recognition ban and COPPA 2025: [Research paper §8](../../01-research-paper.md)
 - [M] Daniel Tiger's Grr-ific Feelings (PBS KIDS), Breathe Think Do with Sesame, GoNoodle, Headspace and Calm kids content, 988 crisis line, NCAEP visual supports: to verify in WP1
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Merge → Lanternling skin on EN-05 Routine, Regulation & Focus engine |
+| **Ships in** | Lanternling app (S1) |
+| **Build wave** | 2 |
+| **Pre-discovery priority score** | 77/100 [I] |
+| **Consumes engines** | EN-05, EN-02 |
+| **Studio features used** | SX-12, SX-19, SX-25 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = CC-01, CC-02, CC-03, CC-04, CC-08.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| CC-E1 | **Childcare handoff card** | A one-page routine and 'what calms me' card for daycare or grandparents (Sensory Passport, SX-12). |
+| CC-E2 | **Gentle pathway to more support** | If a caregiver asks for more help, offer Wavelength tools. The caregiver chooses; no labelling. |
+
+### 15.3 New validation question
+Is a routine built once reused across home, daycare and grandparents? Diary study, n=20.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 4 | 5 | 3 | 3 | 4 | 3 | 5 |

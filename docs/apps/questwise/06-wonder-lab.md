@@ -245,3 +245,41 @@ Mapping: E1, E2 → WP4; E3 → WP4; E4 → WP5.
 - [V2] Sky Guide: https://apps.apple.com/us/app/sky-guide/id576588894
 - [V2] BrainPOP pricing: https://homeschoolbuyersclub.com/products/brainpop-family-access-2
 - [M] Mystery Science popularity; Smithsonian apps are mostly single-purpose/visitor apps (partial [V2]: https://www.si.edu/newsdesk/releases/national-air-and-space-museum-releases-free-children-s-app-pilot-pals)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Defer to Wave 3 |
+| **Ships in** | Questwise app (S2) |
+| **Build wave** | 3 |
+| **Pre-discovery priority score** | 57/100 [I] |
+| **Consumes engines** | EN-10 |
+| **Studio features used** | SX-14, SX-25 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = WL-01, WL-02, WL-04, WL-07.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| WL-E1 | **Data sonification** | Sensor readings rendered as sound, so blind and low-vision children can investigate (SX-14). |
+| WL-E2 | **Privacy-safe citizen science** | Contributions stripped of child location and identity. |
+
+### 15.3 New validation question
+Off-screen experiment completion with printed cards, n=20 families.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 2 | 3 | 4 | 3 | 2 | 4 | 3 | 2 |

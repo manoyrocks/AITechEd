@@ -42,6 +42,8 @@ Network limits in the research environment blocked direct page fetches, includin
 | **[docs/02-inclusive-sensory-ux-framework.md](docs/02-inclusive-sensory-ux-framework.md)** | **"Lumen"**, the studio-wide inclusive and sensory UX framework: 18 principles with acceptance criteria, the Sensory Dial, the "My Needs" profile, per-age UX parameters, safe-AI rules, and the accessibility audit rubric |
 | **[docs/vision/](docs/vision/)** | Five startup vision documents, each with personas, needs mapping, **seven app concepts**, business model, ethics, risks and validation focus |
 | **[docs/discovery/discovery-validation-plan.md](docs/discovery/discovery-validation-plan.md)** | The 16-week discovery and validation plan: work packages, sample sizes, no-code prototyping (paper, Figma, Wizard-of-Oz, concierge), the sensory A/B protocol, prioritization scorecard, ethics, pre-registered thresholds, budget and gates |
+| **[docs/03-project-reevaluation.md](docs/03-project-reevaluation.md)** | **v1.1 reevaluation.** 12 issues found. 35 experiences rebuilt on 12 shared engines and shipped in 10 surfaces instead of 35 store apps. MVP trimmed from 408 to 183 app-specific features. 79 new app features. Per-app verdicts, scores and revised build waves |
+| **[docs/04-studio-platform-features.md](docs/04-studio-platform-features.md)** | **v1.1 studio platform.** 12 engines and 33 studio-wide features. Highlights: Family Pass, Lifelong Learner Passport, age-up transitions, Trust Center, notification budget, remote co-play, Sensory Passport, IEP Prep Coach, embedded tutor, on-device AI, Content Studio |
 | **[docs/apps/](docs/apps/README.md)** | **35 individual app strategy and product specs**, 7 per venture. Each is benchmarked against the top-selling apps in its store category, with a feature matrix, a recommended feature set (MVP/V1/V2), an accessibility and sensory spec, AI guardrails, compliance, go-to-market, metrics, a no-code validation plan, and build-handoff epics with acceptance criteria |
 | **[docs/agent-team/unified-agent-team-prompt.md](docs/agent-team/unified-agent-team-prompt.md)** | **Unified prompt for a team of AI agents (architect, UI/UX designer, developers, QA)**, plus an orchestrator and a compliance reviewer. It has phase gates (no production code before Gate 2), non-negotiables, role prompts, a handoff protocol, quality gates and a registry of all 35 apps |
 | **[research/app-catalog.csv](research/app-catalog.csv)** | Categorized catalog of 83 apps: segment, subject, model, accessibility and sensory notes, top complaint, confidence |
@@ -77,6 +79,14 @@ Network limits in the research environment blocked direct page fetches, includin
    - The EU AI Act bans emotion recognition in education.
    - The FTC is scrutinizing AI companion apps.
    - The AAP's 2026 guidance puts the responsibility on product design.
+
+## v1.1 reevaluation (29 Sep 2026)
+- **Keep** the thesis and the inclusive, calm, honest design stance.
+- **Fix** the scope: 597 features (408 MVP) across 35 separate apps can't be validated or built.
+- **Engines, not app copies:** 12 shared engines replace capabilities duplicated 3–7 times.
+- **10 surfaces instead of 35 store apps:** one app per venture, a stand-alone AAC app, a stand-alone Speak Freely app, the Studio Family Hub and a Pro Console.
+- **Waves:** Wave 0 platform → 1a AI Fluency Lab → 1b Wavelength + Family Hub + Silver Circuit → 1c Questwise + Lanternling → 1d Ascendly.
+- **New validation:** 10 experiments added to the discovery plan (§13), including the embedded-tutor test against the 17% Khanmigo baseline.
 
 ## Next step
 Run the **[16-week Discovery & Validation Plan](docs/discovery/discovery-validation-plan.md)**:

@@ -301,3 +301,42 @@ MVP = F1–F10.
 - [V] Brightwheel: https://mybrightwheel.com/childcare-app/
 - [M] Understood.org, Lovevery, Peanut, ParentSquare, Common Sense membership model (not re-verified; search budget exhausted)
 - Repo: research/raw/05 (Khanmigo metrics and pricing, Bastani 2025, COPPA 2025), raw/01 (ClassDojo), docs/02 (co-play cards, gentle progress)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Re-scope → Studio Family Hub (cross-venture caregiver app) |
+| **Ships in** | Studio Family Hub (S9) |
+| **Build wave** | 1b |
+| **Pre-discovery priority score** | 79/100 [I] |
+| **Consumes engines** | EN-01, EN-10, EN-12 |
+| **Studio features used** | SX-01, SX-04, SX-08, SX-27, SX-28, SX-29 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = F1, F2, F3, F5, F7.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| PC-E1 | **IEP/EHCP Prep Coach** | Plain-language report explainer, meeting question builder and progress-evidence pack (SX-27). |
+| PC-E2 | **Caregiver wellbeing & peer support** | Moderated groups, respite finder and a self-report burnout check (SX-28). |
+| PC-E3 | **Family Digest home** | The single weekly summary across all children (SX-04). |
+
+### 15.3 New validation question
+IEP Prep Coach concierge with ND parents, n=15: ≥70% feel 'more prepared'.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 4 | 5 | 3 | 3 | 4 | 4 | 5 |

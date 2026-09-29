@@ -1,6 +1,8 @@
 # Ascendly: Vision Document
 ### AI-native learning, not cheating. Proof-of-learning and future pathways for ages 13–19
 
+> **v1.1 update (29 Sep 2026):** see the [Project Reevaluation](../03-project-reevaluation.md) (engines, surfaces, trimmed MVP, waves) and [Studio Platform Features](../04-studio-platform-features.md). Each app doc's §15 holds its verdict and new features.
+
 | | |
 |---|---|
 | **Venture** | 3 of 5 · Teens |

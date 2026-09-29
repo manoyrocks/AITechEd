@@ -256,3 +256,41 @@ Mapping: E1 → WP5; E2, E3 → WP4; E4 → WP4/WP5.
 - [V] Roblox 2026 age checks and Kids/Select accounts: https://about.roblox.com/newsroom/2026/04/introducing-roblox-kids-and-select-accounts · https://techcrunch.com/2026/01/07/roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat/
 - [V2 via raw 01/02] Minecraft Education downloads and pricing
 - [M] Swift Playgrounds, micro:bit MakeCode, PRIMM pedagogy
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Defer to Wave 3 → a 'Make with AI' module (free Scratch/Code.org dominate) |
+| **Ships in** | Questwise app (S2) |
+| **Build wave** | 3 |
+| **Pre-discovery priority score** | 55/100 [I] |
+| **Consumes engines** | EN-03 |
+| **Studio features used** | SX-14, SX-17 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = BL-02, BL-03, BL-04, BL-06.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| BL-E1 | **Accessible coding as the wedge** | A screen-reader- and switch-operable block/Python editor, which few kids' coding tools offer [I]. |
+| BL-E2 | **Make an AI responsibly** | Projects paired with AI Detectives cases (SX-18). |
+
+### 15.3 New validation question
+Parent willingness to pay against free tools. Interviews, n=10; proceed only if ≥40% would pay.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 2 | 3 | 4 | 3 | 2 | 3 | 3 | 2 |

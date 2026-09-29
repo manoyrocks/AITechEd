@@ -352,3 +352,42 @@ Benchmark: Huckleberry Plus $58.99/yr, Kinedu $79.99/yr, Speech Blubs $59.98/yr,
 - [V] AAP 2026 policy statement and video-deficit notes: [raw 04 §B3–B4](../../../research/raw/04-neurodivergent-and-inclusive-ux.md)
 - [V2] Speech Blubs US iOS volume (Sensor Tower via raw 02): [raw 02](../../../research/raw/02-apple-app-store-top30.md)
 - [M] CDC "Learn the Signs. Act Early." milestone checklists; MacArthur-Bates CDI; SLP strategy taxonomy (to verify in WP1)
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (lead) |
+| **Ships in** | Lanternling app (S1) |
+| **Build wave** | 1c |
+| **Pre-discovery priority score** | 86/100 [I] |
+| **Consumes engines** | EN-07, EN-09, EN-10 |
+| **Studio features used** | SX-04, SX-06, SX-07, SX-25, SX-26 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = BB-01, BB-02, BB-03, BB-05, BB-06, BB-08.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| BB-E1 | **Hands-free mode** | Moment prompts delivered as audio in the car or kitchen (no screen), via phone audio or smart speaker where platform terms allow for child-directed use. |
+| BB-E2 | **Early-intervention signposting** | When the milestone guide flags a possible concern, show local early-intervention services (e.g., IDEA Part C in the US) and 'talk to your pediatrician' guidance. Never a diagnosis. |
+| BB-E3 | **Remote co-play invite** | A distant grandparent joins a Moment Card by link, via SX-06. |
+
+### 15.3 New validation question
+Does hands-free delivery raise prompt use (≥4 days/week) versus in-app cards? SMS/audio concierge, n=30.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 5 | 4 | 5 | 4 | 3 | 4 | 5 | 4 |

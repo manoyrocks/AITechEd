@@ -282,3 +282,41 @@
 - [V2] Apple accessibility features (Eye Tracking, Head Tracking) via raw 04: https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/
 - [V2] WCAG 2.2 and 2.3.1 (via raw 04): https://dequeuniversity.com/resources/wcag-2.2/
 - [M] Inclusive Technology app range, Look to Learn, Sensory Guru Eyegaze Learning Curve, Sensory App House, UK Engagement Model areas, switch progression authors, epilepsy/CVI prevalence in PMLD: **re-verify in WP1** (search quota exhausted this session).
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (Wave 3; partner hardware) |
+| **Ships in** | Wavelength app (S7) |
+| **Build wave** | 3 |
+| **Pre-discovery priority score** | 73/100 [I] |
+| **Consumes engines** | EN-02, EN-09 |
+| **Studio features used** | SX-16 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = P2, P3, P4, P6, P7, P10.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| SS-E1 | **Remote therapist mode** | During a telehealth session, an OT or teacher adjusts scan speed and dwell remotely. |
+| SS-E2 | **Family music-making (V2 → V1)** | Switch-driven music the family plays together (P17 promoted). |
+
+### 15.3 New validation question
+2 special schools with existing switches (Wizard-of-Oz); teacher value ≥4/5.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 3 | 5 | 3 | 3 | 3 | 5 | 2 |

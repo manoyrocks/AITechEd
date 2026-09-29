@@ -314,3 +314,42 @@ Benchmarks: Epic $84.99/yr; Moshi $79.99/yr; Vooks $69.99/yr; Oscar $39.99/yr; R
 - [V] Oscar: https://play.google.com/store/apps/details?id=com.heyqqgmbh.oscarai&hl=en_US · https://apps.apple.com/us/app/oscar-bedtime-stories/id1663618939
 - [V] Epic forum complaints: [raw 03](../../../research/raw/03-forum-voice-of-customer.md); Epic iOS volume: [raw 02](../../../research/raw/02-apple-app-store-top30.md)
 - [M] Amazon Kids+ pricing; Tonies/Yoto hardware prices; Creative-Tonies
+
+## 15. Reevaluation & enhancements (v1.1)
+
+> Added by the studio reevaluation on 29 Sep 2026. This section **overrides** §4 tiers where they conflict.
+> Rationale: [Project Reevaluation](../../03-project-reevaluation.md). Shared capabilities: [Studio Platform Features](../../04-studio-platform-features.md).
+
+| | |
+|---|---|
+| **Verdict** | Keep (lead) |
+| **Ships in** | Lanternling app (S1) |
+| **Build wave** | 1c |
+| **Pre-discovery priority score** | 83/100 [I] |
+| **Consumes engines** | EN-04, EN-07, EN-10 |
+| **Studio features used** | SX-06, SX-13, SX-25, SX-32 |
+
+### 15.1 Trimmed MVP (app-specific features only)
+**MVP = SL-01, SL-02, SL-03, SL-04, SL-05, SL-09.** All other §4 MVP items move to V1, **unless the platform provides them**:
+- My Needs and Sensory Dial come from EN-02.
+- Weekly summaries are replaced by the Family Digest (SX-04).
+- Sharing and roles come from EN-01 and the Pro Console (SX-30).
+- Fair billing comes from the Family Pass (SX-01).
+- Safety comes from EN-12.
+
+Acceptance criteria for the retained items stay as written in §12.
+
+### 15.2 New features
+| ID | Feature | Description |
+|---|---|---|
+| SL-E1 | **Remote bedtime** | A grandparent or travelling parent reads live by link, with synced pages and no install (SX-06). |
+| SL-E2 | **Human-signed story shelf** | ASL/BSL stories by Deaf storytellers, moved from V2 to V1 (SX-13). |
+| SL-E3 | **Audio-player export** | Lantern Mode stories are playable on partner audio players or smart speakers where partner terms allow (SX-25). |
+
+### 15.3 New validation question
+Remote bedtime with 15 distant-grandparent families: ≥2 sessions/week, and a grandparent SUS ≥75.
+
+### 15.4 Score breakdown [I]
+| Problem severity (20) | Desirability (15) | Inclusivity (15) | Outcome potential (10) | Viability (15) | Feasibility (10) | Differentiation (10) | Platform leverage (5) |
+|---|---|---|---|---|---|---|---|
+| 4 | 5 | 4 | 4 | 4 | 4 | 4 | 4 |

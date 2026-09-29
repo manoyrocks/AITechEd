@@ -1,6 +1,8 @@
 # Evergrow: Vision Document
 ### Hands-on AI fluency and lifelong learning for every adult stage (20–34, 35–59, 60+)
 
+> **v1.1 update (29 Sep 2026):** see the [Project Reevaluation](../03-project-reevaluation.md) (engines, surfaces, trimmed MVP, waves) and [Studio Platform Features](../04-studio-platform-features.md). Each app doc's §15 holds its verdict and new features.
+
 | | |
 |---|---|
 | **Venture** | 4 of 5 · Adults & AI learning |
