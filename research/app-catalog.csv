@@ -1,0 +1,84 @@
+app,publisher,source_lists,primary_age,secondary_ages,subject,business_model,accessibility_sensory_note,top_complaint,confidence
+Duolingo,Duolingo Inc.,GP;AS;Forum,20-34,13-19;35-59,Languages; math; music; chess,Freemium + Energy; Super/Max subscription,VoiceOver inconsistent (AppleVis); drag tiles; high sensory celebrations,Energy system and streak burnout; AI-first backlash,V
+Seekho,Seekho,GP,20-34,13-19;35-59,Micro-learning video (careers; money),Low-price subscription,Vernacular audio helps low literacy; caption quality varies,Subscription pressure after trial,V/E
+Gauth,ByteDance,GP;AS;Forum,13-19,8-12;20-34,AI homework solver,Freemium; Plus ~$12/mo,Camera-first excludes blind users; text walls,Cheating; billing loop; data concerns,V
+Learna,Codeway,GP;AS,20-34,35-59,AI English tutor,Hard paywall; weekly plans,Voice-first; ASR may struggle with speech differences,Paywall right after onboarding,V/E
+Google Classroom,Google,GP;AS,13-19,8-12,LMS,Free / Workspace for Education,Google a11y stack; content depends on teacher,Notification overload; sync bugs,V
+Quizlet,Quizlet Inc.,GP;AS;Forum,13-19,20-34,Flashcards; AI study,Freemium; Plus $35.99/yr,TTS on cards; timed Match mode hard for AT users,Paywall creep; export removed,V
+Minecraft Education,Microsoft,GP;AS;Forum,8-12,13-19,STEM; coding,School license,Immersive Reader; high sensory load; 3D motion,Curriculum alignment; school login needed,V
+Impulse,Headway / Gen.tech,GP;AS,35-59,20-34;60+,Brain training,Weekly/annual subscription,Timed games exclude motor/processing differences,Aggressive weekly paywall,V/E
+Photomath,Google,GP;AS;Forum,13-19,8-12,Math solver,Freemium; Plus ~$70/yr,Math output poorly read by screen readers,Steps paywalled; OCR misreads,V
+Toca Boca World,Spin Master,GP;AS,4-7,8-12,Open-ended pretend play,Free + IAP packs,Wordless UI good for pre-readers; high sensory load,IAP pressure on kids,V
+Brainly,Brainly,GP;AS;Forum,13-19,8-12,Homework Q&A + AI,Freemium; ads,Heavy ads harm readability,Answer quality; used for copying,V/E
+Kahoot!,Kahoot! ASA,GP;Forum,8-12,13-19;20-34,Quiz games,Freemium; B2B,Timer pressure; loud music; shape+color coding helps,Speed rewards fast kids,V/E
+Cake,Cake Corp.,GP,20-34,13-19,English/Korean via clips,Freemium; ads,Bilingual subtitles,Ads; repetitive,V/E
+Lingokids,Monkimun,GP;AS;Forum,4-7,1-3,Early learning; ESL,Subscription ~$80-100/yr,Audio-led; bright busy scenes,Subscription cost; thin free tier,V
+ClassDojo,ClassDojo,GP,4-7,8-12;35-59 (parents),Class community,Free; Plus for parents,Message translation 35+ languages,Notification overload; privacy,V/E
+Headway,Headway Inc.,AS,20-34,35-59,Book summaries,Subscription $89.99/yr,Audio versions help dyslexia/low vision,Trial-to-annual billing surprises,V/E
+ABCmouse,Age of Learning,AS;GP;Forum,4-7,1-3,Pre-K to Grade 2 curriculum,Subscription,Narrated; high sensory; VO poor,Cancellation trap (FTC $10M 2020),V
+PBS KIDS Games,PBS KIDS,AS;GP;Forum,4-7,1-3,Character-based early learning,Free; no ads,Spoken instructions; large controls; captions,App size; crashes,V
+Khan Academy Kids,Khan Academy,AS;GP;Forum,4-7,1-3,Early literacy; math; SEL,Free,Narrated; calm; no timers; library text not enlargeable,Outgrown by ~6-7,V
+Khan Academy (+Khanmigo),Khan Academy,GP;AS;Forum,13-19,8-12,K-12 math; science; test prep,Free; Khanmigo $4/mo,Fully accessible with VoiceOver (AppleVis),Mobile fewer features; Khanmigo errors,V
+Babbel,Babbel GmbH,GP;AS;Forum,35-59,20-34;60+,Languages (structured),Subscription; lifetime,Calmer UI suits older/sensory-sensitive,Price; tops out at B2,V/E
+Memrise,Memrise,GP,20-34,35-59,Languages,Freemium,Captioned native-speaker video,Community courses removed,E
+Prodigy Math,Prodigy Education,AS;Forum,8-12,4-7,Math RPG,Freemium membership,Read-aloud; high sensory RPG,Pay-to-win pressure; FTC complaint,V
+Question.AI,Zuoyebang-linked,GP;AS,13-19,20-34,AI homework solver,Freemium,Camera-first,Wrong answers; paywall; opacity,V/E
+Praktika,Praktika.ai,GP;AS,20-34,35-59,AI avatar language tutor,Subscription,Subtitles; voice-first excludes speech-impaired,Paywall; uncanny avatars,V/E
+Speak,Speak Inc.,AS;GP,20-34,35-59,AI speaking tutor,~$20/mo,Speech-centric,Price,V/E
+Elevate,Elevate Labs,GP;AS,35-59,20-34;60+,Brain training (verbal/math),Subscription; lifetime,Calm design; timed games,Paywall; repetitive,V/E
+Speechify,Speechify Inc.,AS,20-34,13-19;ND,Text-to-speech; reading access,Premium ~$139/yr,2025 ADA Inclusivity; built for dyslexia/ADHD/low vision,Aggressive upsell; billing,V
+Read Along by Google,Google,GP,4-7,8-12,AI read-aloud early literacy,Free; offline,Voice-first; offline; low-bandwidth,Speech recognition errors for young voices,V/E
+Coursera,Coursera (merged with Udemy 2026),GP;AS;Forum,20-34,35-59,Professional courses,Freemium; Plus $399/yr; B2B,Captions/transcripts,Cost; web-first assessments,V
+Udemy,Coursera (merged 2026),GP;AS;Forum,20-34,35-59,Skills courses,Per course; Personal Plan,Captions; speed control,Uneven quality,V
+ELSA Speak,ELSA Corp.,GP,20-34,35-59,English pronunciation,Subscription,Speech scoring may penalize speech impairments,Strict scoring,V/E
+Sololearn,Sololearn,GP,20-34,13-19,Coding,Freemium,Mobile code editor hard with screen readers,Hearts paywall,V/E
+Mathway,Chegg,GP,13-19,20-34,Math/science solver,Freemium,Math output not screen-reader friendly,Steps paywalled,V/E
+Busuu,Chegg,GP;Forum,20-34,35-59,Languages + community,Freemium,Standard,Community feedback declining,E
+PW (Physics Wallah),Physics Wallah,GP,13-19,20-34,Test prep (JEE/NEET),Low-cost batches,Hindi/English audio; limited captions,Outages; upsell,V/E
+Epic!,Epic Creations,AS;Forum,8-12,4-7,Digital library,Subscription; free for educators,Read-to-Me with highlighting,Free tier 1 book/day; hard to cancel,V
+Kiddopia,Paper Boat Apps,AS,4-7,1-3,Preschool skills,Subscription,Narrated; high sensory,Trial auto-renew,V
+Simply Piano,JoyTunes,AS,35-59,20-34;8-12,Piano,Subscription,Visual notation + mic; hearing impaired excluded,Expensive; renewals,V
+Brilliant,Brilliant.org,AS;Forum,20-34,13-19;35-59,Interactive math/CS,Premium $119.99/yr,Interactive visuals weak with VO,Auto-renew without notice,V
+Sago Mini World,Spin Master,AS;Forum,1-3,4-7,Toddler open-ended play,Subscription (Piknik),Wordless; calm; 2026 ADA Inclusivity finalist (Jinja's Garden),Bundle confusion,V
+Pok Pok,Pok Pok,AS;Forum,1-3,4-7,Calm Montessori-inspired play,$45.99/yr; lifetime,Low stimulation; 2021 ADA,Price; not fully non-addictive,V
+Endless Alphabet/Reader,Originator (Spin Master),AS;Forum;ND,1-3,4-7;ND,Early literacy,Paid / IAP packs,No fail states; animation may overstimulate some,IAP upsell,V
+HOMER,Begin,AS;Forum,4-7,1-3,Early reading,~$7.99/mo,Editors' Choice design,Subscription cost,V2
+Teach Your Monster to Read,Usborne Foundation,Forum,4-7,,Phonics,Web free; app paid,Playful; repetitive later levels,App paid,V2
+Reading Eggs / Mathseeds,Blake eLearning,Forum,4-7,8-12,Reading; math,Subscription,Reward-heavy,Kids game the rewards,V2/M
+Starfall,Starfall Education,Forum,4-7,,Phonics; math,Membership,Dated,Most content paid,V2/M
+Duolingo ABC,Duolingo,Forum,4-7,,Phonics,Free,Short lessons,Stops at early reading,V2
+ScratchJr / Scratch / Code.org,MIT / Code.org,Forum,8-12,4-7,Coding,Free,Varies,Stall without projects,V2/M
+IXL,IXL Learning,Forum,8-12,13-19,Math; ELA practice,Subscription,Score drops punish errors,SmartScore anxiety,V/M
+Beast Academy,AoPS,Forum,8-12,,Advanced math,Subscription,Comic-based,Loses struggling learners,V
+Blooket / Gimkit,Various,Forum,8-12,13-19,Review games,Freemium,Speed/luck mechanics,Win without knowing material,M
+Knowt,Knowt,Forum,13-19,20-34,Flashcards; AI notes,Free + ads,Standard,Sustainability of free,V2
+Forest / Opal / one sec,Various,Forum,13-19,20-34;ND,Focus / distraction blocking,Freemium,Focus aid for ADHD,Novelty wears off; bypassable,V2
+ChatGPT (Study Mode),OpenAI,Benchmark;Forum,13-19,20-34,General AI tutor mode,Free; Plus $20/mo,Strong VO/DT; voice mode,Easy to switch off; answer-getting,V
+Gemini (Guided Learning),Google,Benchmark;Forum,13-19,20-34,General AI tutor mode,Free; AI Pro free for US college students,Google a11y baseline,Engagement fades,V
+Claude (Learning mode),Anthropic,Benchmark;Forum,20-34,13-19,General AI tutor mode,Free; Pro $20/mo,VO supported,Opt-in mode,V
+Anki,Open source,Forum,20-34,35-59,Spaced repetition,Free (iOS paid),Customizable; steep UX,Card creation bottleneck,V
+Pimsleur,Simon & Schuster,Forum,35-59,20-34;60+,Audio language,Subscription,Audio-first helps low vision,Limited reading/writing; price,V2
+italki / LingQ / Language Reactor,Various,Forum,20-34,35-59,Tutors / comprehensible input,Pay per lesson / subscription,Varies,Price,M
+Odin Project / freeCodeCamp / CS50,Nonprofits / Harvard,Forum,20-34,13-19,Coding,Free,Web-based,Tutorial hell; setup hurdles,V2
+LinkedIn Learning,Microsoft,Forum,35-59,20-34,Workplace skills / AI,Subscription / B2B,Captions,Certificate value doubts,V2
+BrainHQ,Posit Science,Forum,60+,35-59,Cognitive training,Subscription,Timed tasks,Transfer doubts,V
+Lumosity,Lumos Labs,Forum,60+,35-59,Brain training,Subscription,Timed games,Gains confined to tasks; FTC $2M (2016),V
+GetSetUp,GetSetUp,Forum,60+,,Peer-led tech/wellness classes,Free via partners / subscription,Peer guides; no download; 4 languages,Little independent discussion,V
+Proloquo2Go,AssistiveWare,Forum;ND,1-3,4-7;all ages;ND,AAC,$249.99 one-time,Symbol AAC; iOS only,Price; iOS only,V2
+TouchChat / WordPower,PRC-Saltillo,Forum;ND,4-7,all ages;ND,AAC,$149.99-$299.99,Runs on funded devices,Deep navigation,V2
+LAMP Words for Life,PRC-Saltillo,Forum;ND,4-7,all ages;ND,AAC (motor planning),$299.99,Consistent motor patterns,Expensive; training needed,V2
+CoughDrop,CoughDrop,ND,4-7,all ages;ND,Cloud AAC,$9/mo or $295 lifetime,Cross-platform; open formats,UI polish,V
+Otsimo,Otsimo,Forum;ND,4-7,1-3;ND,Special education games (ABA-framed),$119.99/yr; lifetime,Breadth; ABA framing polarizing,Subscription friction,V
+Speech Blubs,Blub Blub Inc.,Forum;ND,1-3,4-7;ND,Speech (video modeling),Subscription,Engaging peer modeling,Billing/cancellation complaints,V
+Articulation Station,Little Bee Speech,ND,4-7,8-12;ND,Speech sounds,Subscription,SLP-trusted; data tracking,Moved to subscription,V
+Choiceworks,Bee Visual,ND,4-7,8-12;ND,Visual schedules,$39.99 one-time,Simple; clinician-trusted,iOS-centric; dated,V
+First Then Visual Schedule,Good Karma Apps,ND,4-7,ND,Visual schedules,$9.99,Simple,Minimal updates,V
+Goally,Goally,ND,4-7,8-12;ND,Routines device + app,Tablet + subscription,Locked-down device,Setup takes hours; sync bugs,V2
+Tiimo,Tiimo,AS;Forum;ND,20-34,13-19;ND,Visual planner (ND-first),Freemium; $54/yr,2025 iPhone App of the Year; calm,iOS only; subscription,V
+Joon,Joon,ND,8-12,ND,ADHD chores/routines game,Freemium; $89.99/yr,Virtual pet motivation,Kids bored in weeks; trial billing,V
+Goblin Tools,Bram De Buyser,Forum;ND,20-34,13-19;ND,AI task breakdown,Free web; small app fee,Simple; free,LLM variability,V
+Finch,Finch Care,Forum;ND,13-19,20-34;ND,Self-care habits,Freemium,No streak anxiety,Childish to some,V2
+Nessy,Nessy Learning,Forum;ND,8-12,4-7;ND,Dyslexia structured literacy,Subscription,BDA Quality Mark,Cartoonish for older kids,V
+EndeavorRx,Virtual Therapeutics (ex-Akili),ND,8-12,13-19;ND,FDA-authorized ADHD game (Rx),Rx; poor coverage,E1 evidence,Commercial failure; weak functional outcomes,V
+Mightier,Mightier,ND,8-12,4-7;ND,Biofeedback emotion regulation,Subscription incl. hardware,RCT-supported; biometric data,Recurring cost,V
+Cosmo (Filisia),Inclusive Technology,ND,4-7,all ages;ND,Multisensory switches,School pricing,Switch-accessible; tangible,School-only pricing,V
