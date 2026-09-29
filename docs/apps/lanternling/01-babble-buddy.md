@@ -63,11 +63,7 @@
 | **Lovevery app** | Lovevery | Tied to kit subscribers (not published) [M] | 28-day trial; free with Play Kits or $12/mo app-only [V] | n/a | Weekly stage-based videos; "Play Finder" camera on toys; milestone info [V] | Value depends on buying kits [I] | Video-first [V] | [Lovevery blog](https://blog.lovevery.com/product-recommendations/the-lovevery-app-for-parents/) |
 | **LENA Start / Grow** (benchmark, not app) | LENA (non-profit) | Programs in Head Start/EHS and communities [V] | Program-funded [M] | n/a | Measures turns with a wearable; coaching; strong outcome data [V2] | Needs hardware + facilitator [I] | Audio-only measure excludes signing families [I] | [LENA](https://www.lena.org/programs/lena-grow/) |
 
-**What the benchmark tells us [I].**
-1. Parents pay for **routine coaching** (Huckleberry $58.99–$119.99/yr, 4.9★) and **development plans** (Kinedu $79.99/yr). Willingness to pay exists in the adult-facing baby category.
-2. Nobody combines **in-the-moment prompts** with **feedback on talk** the way LENA does, at app price.
-3. The only speech-focused leader (Speech Blubs) is child-facing and carries the billing-trust baggage we want to be the opposite of.
-4. Vroom proves the routine-based content model and sets the free-content bar. We must be clearly better than free (personalisation, feedback, co-caregiver sharing), not just prettier.
+**Takeaways [I].** Parents pay for routine coaching (Huckleberry) and development plans (Kinedu). Nobody pairs in-the-moment prompts with LENA-style talk feedback at app price. The only speech-focused leader (Speech Blubs) is child-facing and carries billing-trust baggage. Vroom sets the free-content bar, so we must beat it on personalisation, feedback and caregiver sharing.
 
 **Feature matrix.**
 
@@ -111,7 +107,6 @@
 | BB-16 | **Grandparent seat** | Large-type, voice-first mode with a single "Give me an idea" button. | Rosa persona; Lumen 60+ parameters | Lumen | V1 | Should |
 | BB-17 | **More home languages** | Portuguese, Mandarin, Vietnamese, Arabic, Tamil card sets (human-translated and culturally reviewed). | Bilingual demand [I] | Improve | V2 | Could |
 | BB-18 | **"Ask a speech question" with citations** | Scoped Q&A over a vetted knowledge base (ASHA/CDC-sourced), with citations, no open chat, escalation to professional resources. | Kinedu AI assistant [V] | Parity (guarded) | V2 | Could |
-| BB-19 | **Wearable/clip-on option** | Evaluate pairing with a low-cost clip mic for full-day counts. | LENA hardware model [V] | Differentiate | V2 (research) | Won't (for now) |
 
 ★ **Signature features:** Moment Cards (BB-01), Word Garden (BB-03), Talk Tally (BB-04). MVP = BB-01 to BB-12 (12 features), which covers the full loop: pick routine → card → talk → tally → word logged → weekly summary.
 
@@ -139,8 +134,6 @@
 **Flow 4: My Needs & settings.** One tap from the header: text size, read-aloud on/off, voice speed, sign/AAC mode (changes wording from "say" to "say or sign" and hides mic features), languages, Talk Tally permission (with plain explanation), reminders, who can view.
 
 **Flow 5: Billing & cancellation.** Settings → Plan → price and renewal date in large type → "Cancel" (one tap, confirmation screen with no guilt copy) → "Pause for up to 3 months" offered as an option, not a barrier. Trial reminder 3 days before charge (email + in-app).
-
-**Flow 6: Professional share (V1).** Parent → "Share with Arjun's SLP" → choose what (words, tally trend, goals) and for how long → SLP receives a read-only link (no child audio ever exists to share).
 
 **Information architecture.** Tabs (max 4, text + icon): **Now** (card for this moment) · **Words** (Word Garden) · **Week** (summary) · **Family** (people, settings, plan). The Sensory/My Needs control sits in the header on every screen.
 
